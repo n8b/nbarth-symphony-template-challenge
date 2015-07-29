@@ -63,6 +63,16 @@ body {
 }
 
 /** 3. Header / Navbar **/
+.navbar-toggle
+{
+	border:1px solid #444;
+}
+
+.icon-bar
+{
+    border:1px solid #444;
+}
+
 .navbar-nav {
 	padding-top: 20px;
 }
