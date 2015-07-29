@@ -139,7 +139,7 @@
       <!-- Three columns of text below the carousel -->
       <div class="row">
         <div class="col-lg-4">
-          <img class="img" src="http://placehold.it/300x150" alt="Generic placeholder image" width="300" height="150">
+          <img class="img" src="http://placehold.it/350x200" alt="Generic placeholder image" width="350" height="200">
           <h5>INFO</h5>
           <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
           <div class="col-lg-10 col-lg-offset-1">
@@ -147,7 +147,7 @@
           </div>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
-          <img class="img" src="http://placehold.it/300x150" alt="Generic placeholder image" width="300" height="150">
+          <img class="img" src="http://placehold.it/350x200" alt="Generic placeholder image" width="350" height="200">
           <h5>INFO</h5>
           <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. </p>
           <div class="col-lg-10 col-lg-offset-1">
@@ -155,7 +155,7 @@
           </div>  
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
-          <img class="img" src="http://placehold.it/300x150" alt="Generic placeholder image" width="300" height="150">
+          <img class="img" src="http://placehold.it/350x200" alt="Generic placeholder image" width="350" height="200">
           <h5>INFO</h5>
           <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper.</p>
           <div class="col-lg-10 col-lg-offset-1">
