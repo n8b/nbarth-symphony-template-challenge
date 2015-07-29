@@ -18,6 +18,8 @@
     <!-- Custom styles for this template -->
     <link href="/vendor/css/carousel.css" rel="stylesheet">
     <link href="/css/styles.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Raleway:400,500,600' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Cinzel' rel='stylesheet' type='text/css'>
   </head>
 <!-- NAVBAR
 ================================================== -->
@@ -56,7 +58,7 @@
 
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-          <ul class="nav navbar-nav">
+          <ul class="nav navbar-nav" id="main-nav">
             <li class="active"><a href="#">SHOP <span class="sr-only">(current)</span></a></li>
             <li><a href="#">OUR STORY</a></li>
             <li><a href="#">BLOG</a></li>
@@ -128,7 +130,7 @@
 
     <div class="promo-bar" class="row hidden-xs">
       <div class="container">
-           <p>Promotion</p>
+           <p>PROMOTION</p>
       </div> 
     </div>
 
@@ -138,7 +140,7 @@
       <div class="row">
         <div class="col-lg-4">
           <img class="img" src="http://placehold.it/300x150" alt="Generic placeholder image" width="300" height="150">
-          <h3>INFO</h3>
+          <h5>INFO</h5>
           <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
           <div class="col-lg-10 col-lg-offset-1">
             <p><a class="btn btn-dark btn-block" href="#" role="button">Learn More</a></p>
@@ -146,7 +148,7 @@
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
           <img class="img" src="http://placehold.it/300x150" alt="Generic placeholder image" width="300" height="150">
-          <h3>INFO</h3>
+          <h5>INFO</h5>
           <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. </p>
           <div class="col-lg-10 col-lg-offset-1">
             <p><a class="btn btn-dark btn-block" href="#" role="button">Learn More</a></p>
@@ -154,7 +156,7 @@
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
           <img class="img" src="http://placehold.it/300x150" alt="Generic placeholder image" width="300" height="150">
-          <h3>INFO</h3>
+          <h5>INFO</h5>
           <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper.</p>
           <div class="col-lg-10 col-lg-offset-1">
             <p><a class="btn btn-dark btn-block" href="#" role="button">Learn More</a></p>

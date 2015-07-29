@@ -11,6 +11,10 @@ Index:
 **/
 
 /** 1. Utility Classes / Globals **/
+body {
+	font-family: 'Raleway', sans-serif;
+}
+
 .orange {
 	color: #F06B20;
 }
@@ -55,6 +59,7 @@ Index:
 
 #pre-nav ul {
 	margin: 10px 0;
+	font-weight: 600;
 }
 
 /** 3. Header / Navbar **/
@@ -82,7 +87,16 @@ Index:
 	color: #333;
     background-color: #fff;
     border-color: #adadad;
-}      
+} 
+
+.brand {
+	font-family: 'Cinzel', serif;
+}
+
+#main-nav {
+	padding-left: 10px;
+	font-weight: 600;
+}     
 
 
 /** 4. Carousel **/
