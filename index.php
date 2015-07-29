@@ -29,7 +29,7 @@
       <ul class="list-inline">
          <li><img src="/assets/truck.png" style="padding-right: 10px"/>FREE SHIPPING ON ALL ORDERS WORLD WIDE !</li>
          <li class="dropdown pull-right">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Account <span class="caret"></span></a>
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">ACCOUNT <span class="caret"></span></a>
           <ul class="dropdown-menu">
             <li><a href="#">Profile</a></li>
             <li><a href="#">Orders</a></li>

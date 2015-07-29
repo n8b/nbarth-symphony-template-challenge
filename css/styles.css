@@ -89,8 +89,9 @@ body {
     border-color: #adadad;
 } 
 
-.brand {
+.brand > h1 {
 	font-family: 'Cinzel', serif;
+	font-size: 44px;
 }
 
 #main-nav {
