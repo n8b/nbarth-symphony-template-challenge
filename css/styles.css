@@ -1,0 +1,159 @@
+
+/**
+Index:
+    1. Utility Classes / Globals
+	2. Pre-Nav
+	3. Header / Navbar
+	4. Carousel
+	5. Promo Bar
+	6. Marketing / Content Section
+	7. Footer
+**/
+
+/** 1. Utility Classes / Globals **/
+.orange {
+	color: #F06B20;
+}
+
+.btn-orange {
+	background-color: #F06B20;
+	color: #fff;
+}
+
+.btn-orange:hover {
+	opacity: 0.8;
+	color: #fff;
+}
+
+.btn-dark {
+	background-color :#030303;
+    color: #fff;
+}
+
+.btn-dark:hover {
+	opacity: 0.8;
+	color: #fff;
+}
+
+.form-control:focus {
+  border-color: #F06B20;
+  outline: 0;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(240, 107, 32, .6);
+          box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(240, 107, 32, .6);
+}
+
+/** 2. Pre-Nav **/
+#pre-nav {
+	height: 40px;
+	background: #ffffff; /* Old browsers */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffff), color-stop(100%,#e5e5e5)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #ffffff 0%,#e5e5e5 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #ffffff 0%,#e5e5e5 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #ffffff 0%,#e5e5e5 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #ffffff 0%,#e5e5e5 100%); /* W3C */
+}
+
+#pre-nav ul {
+	margin: 10px 0;
+}
+
+/** 3. Header / Navbar **/
+.navbar-nav {
+	padding-top: 20px;
+}
+
+.navbar-nav .btn-group {
+	padding-top: 10px;
+}
+
+.navbar-nav .btn-default {
+	color: #333;
+    background-color: #e6e6e6;
+    border-color: #adadad;
+} 
+
+.navbar-nav .btn-icon {
+	color: #333;
+    background-color: #fff;
+    border-color: #adadad;
+}
+
+.navbar-nav .btn-icon:active {
+	color: #333;
+    background-color: #fff;
+    border-color: #adadad;
+}      
+
+
+/** 4. Carousel **/
+.carousel-control.left {
+	background-image: none;
+}
+
+.carousel-control.right {
+	background-image: none;
+}
+
+.carousel-btn {
+	width: 89px; height: 89px;  top: 150px; position: absolute; display: inline-block; background-repeat: none; 
+}
+
+a {
+	color: #5a5a5a;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #5a5a5a;
+}
+
+
+/** 5. Promo Bar **/
+.promo-bar {
+	background-color: #F06B20;
+	text-align: center;
+}
+
+.promo-bar p {
+	color: #fff;
+	margin-top: 10px;
+}
+
+/** 6. Marketing / Content Section **/
+.marketing {
+	padding: 15px 15px;
+}
+
+/** 7. Footer **/
+.footer-announcement {
+	background-color: #eee;
+	padding: 20px;
+	text-align: center;
+}
+
+footer {
+	margin-top: 15px;
+}
+
+footer a:hover {
+	text-decoration: underline;
+}
+
+footer ul {
+	padding: 0;
+}
+
+footer ul > li {
+	list-style-type: none;
+}
+
+.social-icons {
+	padding: 10px;
+}
+
+.social-icons a:hover {
+	opacity: 0.75;
+}
+
+
+  
